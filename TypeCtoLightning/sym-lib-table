@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "LightningMFI")(type "KiCad")(uri "${KIPRJMOD}/LightningMFI.kicad_sym")(options "")(descr ""))
+)
